@@ -1,4 +1,4 @@
-var movies = [
+let movies = [
   {
     title: 'The Shawshank Redemption',
     year: '1994',
